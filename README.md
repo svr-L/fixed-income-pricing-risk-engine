@@ -1,4 +1,4 @@
-# Fixed-Income Pricing & Quantitative Risk Analytics
+# Fixed-Income Pricing & Quantitative Risk Engine
 
 Independent Python implementation of interest-rate pricing, market-data construction,
 volatility modelling and quantitative risk analytics. The package is designed as a
